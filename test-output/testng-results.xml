@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T01:14:46 EDT" name="Default suite" finished-at="2022-06-21T01:15:44 EDT" duration-ms="58517">
+    <groups>
+    </groups>
+    <test started-at="2022-06-21T01:14:46 EDT" name="Default test" finished-at="2022-06-21T01:15:44 EDT" duration-ms="58517">
+      <class name="testlayer.YourPayment">
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:14:46 EDT" name="initiateelement" finished-at="2022-06-21T01:15:02 EDT" duration-ms="15762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="verifybutton()[pri:1, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:02 EDT" name="verifybutton" finished-at="2022-06-21T01:15:03 EDT" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybutton -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:03 EDT" name="quit" finished-at="2022-06-21T01:15:04 EDT" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:04 EDT" name="initiateelement" finished-at="2022-06-21T01:15:16 EDT" duration-ms="12558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="addcard()[pri:2, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:16 EDT" name="addcard" finished-at="2022-06-21T01:15:22 EDT" duration-ms="6128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcard -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:22 EDT" name="quit" finished-at="2022-06-21T01:15:23 EDT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:23 EDT" name="initiateelement" finished-at="2022-06-21T01:15:36 EDT" duration-ms="13256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="Default()[pri:3, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:36 EDT" name="Default" finished-at="2022-06-21T01:15:44 EDT" duration-ms="8072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Default -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testlayer.YourPayment@2c95ac9e]" started-at="2022-06-21T01:15:44 EDT" name="quit" finished-at="2022-06-21T01:15:44 EDT" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testlayer.YourPayment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<suite name="Amazon">
+	<test name="TestNG" allow-return-values="true">
+		<classes>
+			<class name="testlayer.YourPayment" />
+		
+		</classes>
+	</test>
+	<test name="Regression" allow-return-values="true">
+		<classes>
+			<class name="testlayer.Guestuser" />
+		</classes>
+	</test>
+<test name="unit" allow-return-values="true">
+		<classes>
+			<class name="testlayer.Login" />
+			<class name="testlayer.YourorderTest" />
+			<class name="testlayer.Paymenttest" />
+			<class name="testlayer.Search_Sorting" />
+			<class name="testlayer.ShoppingCart" />
+			<class name="testlayer.YourAccount" />
+			<class name="testlayer.YourAddress" />
+		</classes>
+	</test>
+
+</suite>
